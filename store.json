@@ -1,7 +1,13 @@
 {
-  "Fortnite": {
-    "image": "https://i.imgur.com/7p6pGfX.png",
-    "description": "De vetste Battle Royale game ooit.",
-    "publisher": "Notspay"
-  }
+    "Fortnite": {
+        "image": "https://i.imgur.com/7p6pGfX.png",
+        "description": "De vetste Battle Royale game ooit.",
+        "publisher": "Notspay"
+    },
+    "TestGame": {
+        "image": "https://i.imgur.com/7p6pGfX.png",
+        "description": "Nieuwe game toegevoegd via CryStore Admin.",
+        "download_url": "https://google.com",
+        "exe_name": "test.exe"
+    }
 }
